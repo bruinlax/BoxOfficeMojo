@@ -1,0 +1,4 @@
+pymongo
+beatifulsoup4
+inflection
+decorator
